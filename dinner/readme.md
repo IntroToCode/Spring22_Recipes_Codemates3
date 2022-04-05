@@ -11,6 +11,7 @@ Pizza dough, tomato, pineapple, motz
 Oven 
 Rolling Pin
 Spoon
+pizza oven
 Knife
 
 ## Steps for preparation:
@@ -22,7 +23,7 @@ Knife
 6. Cook for 10 mintes
 
 ### Notes:
-
+You can add ranch to pair the pizza or a brush of garlic butter around the crust
 
 
 ### Codemates #
