@@ -1,8 +1,8 @@
 # Tuna Sandwhich
 
-## Servings: 1
+## Servings: 2
 
-## Time to prepare: 5 minutes 
+## Time to prepare: 10 minutes 
 
 ## Ingredients:
 Can of tuna 
@@ -15,6 +15,7 @@ Cheese
 Knife 
 Cutting Board
 Bowl
+A huge appetite for lunch
 
 
 ## Steps for preparation:
@@ -28,5 +29,6 @@ Bowl
 
 ### Notes:
 Best to use dolphin safe tuna
+Wheat bread tastes better
 
 ### Codemates #
