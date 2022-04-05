@@ -5,7 +5,7 @@
 ## Time to prepare: 30 minutes
 
 ## Ingredients:
-
+Pizza dough, tomato, pineapple, burrito
 
 ## Equipment needed:
 
