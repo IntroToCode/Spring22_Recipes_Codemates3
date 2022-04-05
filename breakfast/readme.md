@@ -10,7 +10,7 @@ Waffle made with love
 Maple Syrup from Canada
 
 ## Equipment needed:
-
+Frier, kitchen, restaurant
 
 ## Steps for preparation:
 
