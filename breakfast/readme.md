@@ -2,7 +2,9 @@
 
 ## Servings: 2
 
-## Time to prepare: 20
+## Time to prepare: 
+Prep time: 60 minutes
+Cooking time: 30 minutes
 
 ## Ingredients:
 Organic chicken, happily raised
