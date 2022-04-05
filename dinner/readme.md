@@ -8,7 +8,7 @@
 Pizza dough, tomato, pineapple, burrito
 
 ## Equipment needed:
-
+pizza oven
 
 ## Steps for preparation:
 
