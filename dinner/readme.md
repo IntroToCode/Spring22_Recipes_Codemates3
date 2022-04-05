@@ -15,7 +15,7 @@ Pizza dough, tomato, pineapple, burrito
 
 
 ### Notes:
-
+You can add ranch to pair the pizza or a brush of garlic butter around the crust
 
 
 ### Codemates #
