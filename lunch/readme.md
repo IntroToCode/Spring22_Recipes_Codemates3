@@ -2,7 +2,7 @@
 
 ## Servings: 2
 
-## Time to prepare: 5 minutes 
+## Time to prepare: 10 minutes 
 
 ## Ingredients:
 Can of tuna 
