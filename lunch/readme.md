@@ -6,7 +6,7 @@
 
 ## Ingredients:
 Can of tuna 
-Mayo
+Mayo or mustard
 2 slices of bread
 Tomato
 Cheese
