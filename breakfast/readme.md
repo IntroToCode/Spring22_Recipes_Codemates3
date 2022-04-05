@@ -1,6 +1,6 @@
 # Waffles
 
-## Servings: 7
+## Servings: 
 
 ## Time to prepare: 20 minutes
 
