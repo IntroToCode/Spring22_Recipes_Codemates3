@@ -5,17 +5,22 @@
 ## Time to prepare: 30 minutes
 
 ## Ingredients:
-Pizza dough, tomato, pineapple, burrito
+Pizza dough, tomato, pineapple, motz
 
 ## Equipment needed:
+Oven 
+Rolling Pin
+Spoon
 pizza oven
+Knife
 
 ## Steps for preparation:
-Get up
-Go to the oven
-Put the pizza in
-Wait 2 min (depending on how hot the oven is)
-Eat it
+1. Roll out Pizza Dough
+2. spread sauce
+3. add cheese
+4. add pineapple 
+5. Pre heat oven to 450
+6. Cook for 10 mintes
 
 
 ### Notes:
