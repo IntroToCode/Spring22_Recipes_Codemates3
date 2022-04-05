@@ -20,10 +20,12 @@ Step 4: Use a waffle maker and cook the waffle batter for 5 minutes
 Step 5: Heat a cast iron and add canola oil, make sure that oil is at 375 degrees before adding chickenb
 Step 6: add chicken and cook thoroughly for 10 minutes
 Step 7: Serve waffles and chicken and pour a cup of maple syrup
+Step 8: Serve with freshly brewed coffee 
 
 
 
 ### Notes:
+
 
 
 
