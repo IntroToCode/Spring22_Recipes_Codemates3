@@ -16,6 +16,7 @@ Knife
 Cutting Board
 Bowl
 A huge appetite for lunch
+Can opener
 
 
 ## Steps for preparation:
