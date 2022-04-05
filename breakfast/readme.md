@@ -11,11 +11,11 @@ chicken
 Waffle Mix
 Maple syrup
 
-
 ## Equipment needed:
 Waffle maker
 Large bowl
 measuring cups
+
 
 ## Steps for preparation:
 Step 1: mix the heavy cream and 7 spices together
