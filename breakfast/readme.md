@@ -25,6 +25,6 @@ Step 7: Serve waffles and chicken and pour a cup of maple syrup
 
 ### Notes:
 
-
+Warm up the maple syrup before serving
 
 ### Codemates #
