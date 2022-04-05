@@ -29,5 +29,6 @@ A huge appetite for lunch
 
 ### Notes:
 Best to use dolphin safe tuna
+Wheat bread tastes better
 
 ### Codemates #
