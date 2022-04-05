@@ -1,4 +1,4 @@
-# Cheese Pizza
+## Margarita Pizza 
 
 ## Servings: 7
 
@@ -22,8 +22,10 @@ Knife
 5. Pre heat oven to 450
 6. Cook for 10 mintes
 
+
 ### Notes:
 You can add ranch to pair the pizza or a brush of garlic butter around the crust
 
 
 ### Codemates #
+love, your code mates team 3

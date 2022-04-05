@@ -1,18 +1,23 @@
 # Waffles
 
-## Servings: 2
+## Servings: 7
 
 ## Time to prepare: 
 Prep time: 60 minutes
 Cooking time: 30 minutes
 
+
 ## Ingredients:
-Organic chicken, happily raised
-Waffle made with love
-Maple Syrup from Canada
+chicken 
+Waffle Mix
+Maple syrup
 
 ## Equipment needed:
-Restaurant, kitchen, waffle maker
+
+Waffle maker
+Large bowl
+measuring cups
+
 
 ## Steps for preparation:
 Step 1: mix the heavy cream and 7 spices together
@@ -32,3 +37,4 @@ Warm up the maple syrup before serving
 
 
 ### Codemates #
+Yours in cood cooking, the codemates team 3
