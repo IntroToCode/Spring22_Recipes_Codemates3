@@ -1,4 +1,4 @@
-# Cheese Pizza
+## Margarita Pizza 
 
 ## Servings: 7
 
