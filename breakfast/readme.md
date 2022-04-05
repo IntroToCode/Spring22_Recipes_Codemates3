@@ -12,6 +12,7 @@ Waffle Mix
 Maple syrup
 
 ## Equipment needed:
+
 Waffle maker
 Large bowl
 measuring cups

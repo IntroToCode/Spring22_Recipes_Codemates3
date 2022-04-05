@@ -1,4 +1,4 @@
-# Cheese Pizza
+## Margarita Pizza 
 
 ## Servings: 7
 
@@ -28,4 +28,4 @@ You can add ranch to pair the pizza or a brush of garlic butter around the crust
 
 
 ### Codemates #
-For the whole team
+love, your code mates team 3
