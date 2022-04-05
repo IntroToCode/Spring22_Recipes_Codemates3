@@ -1,8 +1,8 @@
 # Tuna Sandwhich
 
-## Servings: 1
+## Servings: 2
 
-## Time to prepare: 5 minutes 
+## Time to prepare: 10 minutes 
 
 ## Ingredients:
 Can of tuna 
@@ -16,6 +16,7 @@ Knife
 Cutting Board
 Bowl
 A huge appetite for lunch
+Small spatula or spoon
 
 
 ## Steps for preparation:
