@@ -1,6 +1,6 @@
 # Tuna Sandwhich
 
-## Servings: 1
+## Servings: 2
 
 ## Time to prepare: 5 minutes 
 
