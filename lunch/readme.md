@@ -17,6 +17,7 @@ Cutting Board
 Bowl
 A huge appetite for lunch
 Small spatula or spoon
+can opener
 
 
 ## Steps for preparation:
