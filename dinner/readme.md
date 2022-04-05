@@ -5,7 +5,7 @@
 ## Time to prepare: 
 
 ## Ingredients:
-
+Pizza dough, tomato, pineapple, burrito
 
 ## Equipment needed:
 
