@@ -11,7 +11,11 @@ Pizza dough, tomato, pineapple, burrito
 pizza oven
 
 ## Steps for preparation:
-
+Get up
+Go to the oven
+Put the pizza in
+Wait 2 min (depending on how hot the oven is)
+Eat it
 
 
 ### Notes:
