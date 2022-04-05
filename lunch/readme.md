@@ -16,6 +16,7 @@ Knife
 Cutting Board
 Bowl
 A huge appetite for lunch
+Small spatula or spoon
 
 
 ## Steps for preparation:
