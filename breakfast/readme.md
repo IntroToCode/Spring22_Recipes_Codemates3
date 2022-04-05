@@ -1,8 +1,8 @@
 # Waffles
 
-## Servings: 
+## Servings: 2
 
-## Time to prepare:
+## Time to prepare: 20
 
 ## Ingredients:
 
