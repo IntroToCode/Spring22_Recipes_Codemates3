@@ -29,6 +29,7 @@ Knife
 
 ### Notes:
 You can add ranch to pair the pizza or a brush of garlic butter around the crust
+Lightly cook the pizza dough before adding the topping to make it crispier on the outside! This can be done by rolling it out then placing it in the oven with a heavy oject on top of it.
 
 
 ### Codemates #
