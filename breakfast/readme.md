@@ -37,6 +37,7 @@ Step 8: Serve with freshly brewed coffee
 ### Notes:
 
 Warm up the maple syrup before serving
+When mixing batter fold the batter instead of using a whisk for a fluffier batter
 
 
 ### Codemates #
